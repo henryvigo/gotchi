@@ -1,2 +1,2 @@
 web: java -jar Tamagotchi.java
-web: java -jar $(ls target/*.jar)
+web: java -jar $(ls target/*.java)
