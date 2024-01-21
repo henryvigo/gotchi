@@ -42,6 +42,13 @@ import javax.swing.JFrame;
 
 //32x32pix
 
+public class Tamagotchi {
+    public static void main(String[] args) {
+        // Tu lógica de inicio de la aplicación
+    }
+}
+0
+
 class Logic{
     
     public Logic(){
