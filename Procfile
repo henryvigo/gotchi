@@ -1,1 +1,1 @@
-web: java -jar Tamagotchi.jar
+web: java -jar js/game.js
